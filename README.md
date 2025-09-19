@@ -22,7 +22,7 @@ pip install selenium
 
 ### 使用方法
 
-0.准备合适版本的chrome.exe和chromedriver.exe（下载地址：https://vikyd.github.io/download-chromium-history-version/#/）
+0.准备合适版本的MicrosoftEdge.exe和msedgedriver.exe（下载地址：https://vikyd.github.io/download-chromium-history-version/#/）
 
 1.提前将待购票的乘车人姓名加入登录的12306账号里
 
